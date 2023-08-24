@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400&display=swap');
+
+body {
+    min-height: 100vh;
+    height: auto;
+    background-image: linear-gradient(to bottom, #060606, #100b1b, #160f2a, #1c1039, #250e48, #2a0c4e, #2f0954, #35055a, #35055a, #35055a, #35055a, #35055a);
+}
+
+h2 {
+    margin: 0 0 0 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem 14rem 0rem;
+}
+
+.btn-entrar {
+    padding-right: 2rem;
+    border: none;
+    background: none;
+    color: #760EC8;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.btn-aceite-desafio {
+    border: none;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    border-radius: 4px;
+    height: 3.25rem;
+    width: 12rem;
+    background-color: #760EC8;
+    color: white;
+}
+
+.img-header {
+    height: 30px;
+}
+
+.container {
+    justify-content: center;
+    display: flex;
+}
+
+#bloco-1 {
+    margin-top: 5rem;
+    align-items: stretch;
+    flex-direction: row;
+    display: flex;
+    font-family: 'Inter', sans-serif;
+    color: #FFFFFF;
+    line-height: 1.8rem;
+}
+
+#bloco-1.div.img {
+    width: auto;
+}
+
+.check {
+    height: 1.125rem;
+    padding-right: 0.6rem;
+}
+
+.h2-bloco-1 {
+    font-size: 15px;
+    font-weight: 400;
+    opacity: 70%;
+}
+
+.btn-explore-desafios {
+    border: none;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    border-radius: 4px;
+    height: 3.25rem;
+    width: 10.8rem;
+    background-color: #760EC8;
+    color: white;
+}
+
+.btn-junte-a-comunidade {
+    border: none;
+    height: 24px;
+    background: none;
+    color: #760EC8;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#b1-c2 {
+    margin: 0rem 1rem 0rem 1rem;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#b1-c1 {
+    flex-direction: column;
+    align-self: center;
+    display: flex;
+}
+
+#b1-c3 {
+    flex-direction: column;
+    align-self: center;
+    display: flex;
+}
+
+#primeira-imagem-b1 {
+    margin-left: 2.5rem;
+    width: 16rem;
+    height: 13.6rem;
+    margin-bottom: 1.6rem;
+}
+
+#segunda-imagem-b1 {
+    margin-top: 10px;
+    width: 288px;
+    height: 240px;
+}
