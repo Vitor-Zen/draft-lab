@@ -1,0 +1,74 @@
+#hero {
+    height: 744px;
+    width: 1440px;
+}
+
+#left-side {
+    display: flex;
+    flex-direction: column;
+    width: 480px;
+    height: 372px;
+    margin: 14.1rem 0rem 0rem 10rem;
+}
+
+.titulo-h1 {
+    color: #ffffff;
+    font-family: 'Inter', sans-serif;
+    font-size: 1.8rem;
+    line-height: 0.5rem;
+    height: 10rem;
+}
+
+.bullets {
+    color: #ffffff;
+    opacity: 70%;
+    height: 5rem;
+    width: 19.75rem;
+    line-height: 0rem;
+}
+
+.check-box {
+    align-items: center;
+    display: flex;
+    gap: 0.5rem;
+}
+
+.tamanho-check-icon {
+    width: 24px;
+    height: 24px;
+}
+
+.h2-checkbox {
+    font-size: 0.7rem;
+}
+
+#bloco-btn-left-side {
+    width: 23rem;
+    height: 4.75rem;
+    padding: 10px 0px 0px 0px;
+    gap: 12px;
+    display: flex;
+    align-items: center;
+}
+
+#btn-caixa-explore-desafio {
+    width: 9.5rem;
+    height: 3.5rem;
+    border-radius: 4px;
+    display: flex;
+}
+
+#btn-explore-desafio {
+    font-weight: 500;
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+    color: #ffffff;
+    background-color: #760EC8;
+}
+
+#junte-a-comunidade {
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    color: #760EC8;
+}
